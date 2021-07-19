@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Updates:**
+- 🔭 I’m currently working as an Epidemiologist at [Helmholtz Center for Infection Research](https://www.helmholtz-hzi.de/en/)
+- 🌱 I’m currently learning **R** and **Python** for Data Science and Data Analysis.
+- 👯 I’m looking to collaborate on Data Science and Data Analysis projects.
 
