@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as an **Epidemiologist|Research Associate** at [Helmholtz Center for Infection Research](https://www.helmholtz-hzi.de/en/) in Germany.
 - 🌱 I’m currently learning **R** and **Python** for Data Science and Data Analysis.
 - 👯 I’m looking to collaborate on Data Science and Data Analysis projects.
+- 📫 [Here](https://www.linkedin.com/in/sudipkarki/) is my Linkedin profile if you like to connect.  
 
