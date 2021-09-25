@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  **R** for Data Science and Data Analysis.
 - 👯 I’m looking to collaborate on Data Science and Data Analysis projects.
 - 📫 [Here](https://www.linkedin.com/in/sudipkarki/) is my Linkedin profile if you like to connect.  
-- ⚡ I am interested in learning **Statistics**, **Machine Learning**, and **Python**.
+- ⚡ I am interested in learning **Statistics**, **Data Science**,**Machine Learning**, **SQL**, and **Python**.
 
