@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **Updates:**
+- 🔭 I'm currently working as a **Doctoral Researcher** at [University of Toulouse III] (https://www.univ-tlse3.fr/) in [INSERM UMR 1295 CERPOP] (https://cerpop.inserm.fr/presentation-1) in Toulouse, France.
 - 🔭 I’m currently working as an **Epidemiologist|Research Associate** at [Helmholtz Center for Infection Research](https://www.helmholtz-hzi.de/en/) in Germany.
 - 🌱 I’m currently learning  **R** for Data Science and Data Analysis.
 - 👯 I’m looking to collaborate on Data Science and Data Analysis projects.
