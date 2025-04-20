@@ -5,7 +5,7 @@ My name is **Sudip Jung Karki**, an **Epidemioligist** and **Healthcare Data Sci
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as an **Epidemiologist| Research Associate** at [Helmholtz Center for Infection Research](https://www.helmholtz-hzi.de/en/)
+- 🔭 I was working as an **Epidemiologist| Research Associate** at [Helmholtz Center for Infection Research](https://www.helmholtz-hzi.de/en/)
 - 🌱 I’m currently learning **R** and **Python** for Data Science and Data Analysis.
 - 👯 I’m looking to collaborate on Data Science and Data Analysis projects.
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **Updates:**
-- 🔭 I'm currently working as a **Doctoral Researcher** at [University of Toulouse III](https://www.univ-tlse3.fr/) in [INSERM UMR 1295 CERPOP](https://cerpop.inserm.fr/presentation-1) in Toulouse, France.
+- 🔭 I'm currently working as a **Researcher** at [Institute of Social Medicine and Health Systems Research](https://ismg.med.ovgu.de/) in Magdeburg, Germany.
+- 🔭 I was working as a **Researcher** at [University of Toulouse III](https://www.univ-tlse3.fr/) in [INSERM UMR 1295 CERPOP](https://cerpop.inserm.fr/presentation-1) in Toulouse, France.
 - 🔭 I was working as an **Epidemiologist|Research Associate** at [Helmholtz Center for Infection Research](https://www.helmholtz-hzi.de/en/) in Germany.
 - 🌱 I’m currently learning  **R** for Data Science and Data Analysis.
 - 👯 I’m looking to collaborate on Data Science and Data Analysis projects.
